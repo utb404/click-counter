@@ -16,6 +16,7 @@ pip install -r requirements.txt
 ```python
 BITLY_TOKEN='ВАШ_ТОКЕН'
 ```
+Скрипт запускается командой `python3 main.py url` где `url` - ваша ссылка.
 
 ### Цель проекта
 
